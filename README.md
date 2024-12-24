@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineering student with a passion for developing innovative solutions and learning new technologies. Currently, I'm focused on expanding my knowledge in full-stack development .<br>- 🔭 I’m currently working on a full stack web application.<br>- 🌱 I’m currently learning the MERN STACK.<br>- 👯 I’m looking to collaborate on any type of projects.<br>- 📫 How to reach me: mohamedneji2025@gmail.com<br>
+I'm a software engineering student with a passion for developing innovative solutions and learning new technologies. Currently, I'm focused on expanding my knowledge in full-stack development .<br>- 👯 I’m looking to collaborate on any type of projects.<br>- 📫 How to reach me: mohamedneji2025@gmail.com<br>
 
 
 ## 🌐 Socials:
